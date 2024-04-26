@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShreeAmble003
 - 👀 I’m interested in - Web Development
 - 🌱 I’m currently studying - BCA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - @shreeamble.003@gmail.com
 
 <!---
